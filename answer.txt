@@ -1,0 +1,7 @@
+cd bomb
+The moon unit will be divided into two divisions.
+1 2 4 8 16 32
+0 311
+216 4
+5 115
+
